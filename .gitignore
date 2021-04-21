@@ -1,0 +1,10 @@
+/GrpcGreeter/GrpcGreeter/bin/Debug/net5.0/*.dll
+/GrpcGreeter/GrpcGreeter/bin/Debug/net5.0
+/GrpcGreeter/GrpcGreeter/obj/Debug/net5.0
+/GrpcGreeter/GrpcGreeter/obj
+/GrpcGreeterClient/GrpcGreeterClient/bin/Debug/net5.0
+/GrpcGreeterClient/GrpcGreeterClient/obj/Debug/net5.0
+/GrpcGreeterClient/GrpcGreeterClientAsServiceRef/obj/Debug/net5.0
+/GrpcGreeterClient/GrpcGreeterClientAsServiceRef/bin/Debug/net5.0
+/GrpcGreeterClient/GrpcGreeterClient/obj
+/GrpcGreeterClient/GrpcGreeterClientAsServiceRef/obj
