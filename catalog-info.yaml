@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: gRPCService
+  annotations:
+    github.com/project-slug: sunitkanyan/gRPCService
+spec:
+  type: other
+  lifecycle: unknown
+  owner: sunitkanyan
